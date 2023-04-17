@@ -1,0 +1,60 @@
+Coverage Report Summary Data by file
+
+Total Coverage By File (code coverage only, filtered view): 82.5%
+
+File: adder.v
+    Enabled Coverage        Active      Hits    Misses % Covered
+    ----------------        ------      ----    ------ ---------
+    Stmts                      782       782         0     100.0
+    Branches                   514       258       256      50.1
+    FEC Expression Terms      2484      1363      1121      54.8
+
+File: alu_output_stage.v
+    Enabled Coverage        Active      Hits    Misses % Covered
+    ----------------        ------      ----    ------ ---------
+    Stmts                       18        18         0     100.0
+    Branches                    36        36         0     100.0
+    FEC Expression Terms         2         0         2       0.0
+
+File: calc2_test.sv
+    Enabled Coverage        Active      Hits    Misses % Covered
+    ----------------        ------      ----    ------ ---------
+    Stmts                      379       351        28      92.6
+    Branches                   280       232        48      82.8
+    FEC Expression Terms         0         0         0     100.0
+
+File: compriority.v
+    Enabled Coverage        Active      Hits    Misses % Covered
+    ----------------        ------      ----    ------ ---------
+    Stmts                       84        84         0     100.0
+    Branches                   508       448        60      88.1
+    FEC Expression Terms        10         2         8      20.0
+
+File: holdreg.v
+    Enabled Coverage        Active      Hits    Misses % Covered
+    ----------------        ------      ----    ------ ---------
+    Stmts                        8         8         0     100.0
+    Branches                    16        16         0     100.0
+    FEC Expression Terms         0         0         0     100.0
+
+File: mux_out.v
+    Enabled Coverage        Active      Hits    Misses % Covered
+    ----------------        ------      ----    ------ ---------
+    Stmts                        6         6         0     100.0
+    Branches                    24        23         1      95.8
+    FEC Expression Terms         0         0         0     100.0
+
+File: shifter.v
+    Enabled Coverage        Active      Hits    Misses % Covered
+    ----------------        ------      ----    ------ ---------
+    Stmts                       73        73         0     100.0
+    Branches                  4104      4104         0     100.0
+    FEC Expression Terms         0         0         0     100.0
+
+File: stimulus_generator.sv
+    Enabled Coverage        Active      Hits    Misses % Covered
+    ----------------        ------      ----    ------ ---------
+    Stmts                     4239      4239         0     100.0
+    Branches                     0         0         0     100.0
+    FEC Expression Terms         0         0         0     100.0
+
